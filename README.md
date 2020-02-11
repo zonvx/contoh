@@ -1,0 +1,2 @@
+# contoh
+Percobaan pertama saya
